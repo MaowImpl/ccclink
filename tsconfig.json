@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"lib": [
+			"DOM",
+			"ES2020"
+		],
+		"outDir": "out",
+		"allowJs": true,
+		"strict": true,
+		"alwaysStrict": true
+	},
+	"include": [
+		"src/**/*"
+	]
+}
