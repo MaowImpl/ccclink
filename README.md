@@ -1,6 +1,9 @@
 # ComputerCraft Code Link
-This tool allows you to upload a file to your ComputerCraft computer in just 2 commands.<br>
+This tool allows you to upload a file to your **CC: Tweaked** computer in just 2 commands.<br>
 **Disclaimer: This tool only works on a local network, AKA localhost. You will need to use this in singleplayer.**
+## Requirements
+1. [Node.js](https://nodejs.org)
+2. [NPM](https://www.npmjs.com)
 ## Steps
 1. Install the `client.lua` script onto your CC computer.
 2. Compile and launch `server.ts`.
